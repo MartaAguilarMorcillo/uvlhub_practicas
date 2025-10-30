@@ -1,5 +1,0 @@
-# ----------------------------------------------------------------------------
-# Mock Workflow (Workflow Simulado/Dummy)
-# Este workflow no hace nada significativo; solo se usa para probar que 
-# los disparadores 'push' y 'pull_request' funcionan correctamente.
-# ----------------------------------------------------------------------------
